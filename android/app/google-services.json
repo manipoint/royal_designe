@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "769972667097",
+    "project_id": "al-madina-fbeca",
+    "storage_bucket": "al-madina-fbeca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769972667097:android:e83a228ccb6acbdc0eb4c8",
+        "android_client_info": {
+          "package_name": "com.example.almadina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769972667097-0bkqr6mrvevsi2u9qc20t7nnjcss0qsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.almadina",
+            "certificate_hash": "af2b602baf37416b4a638d023fef8a1701dae946"
+          }
+        },
+        {
+          "client_id": "769972667097-hq3qio3gcismdvodbg9dn299utg7at74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAryJQzqkhCn0UF4nXNZbYlFo8AHbsFvKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769972667097-hq3qio3gcismdvodbg9dn299utg7at74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769972667097-75bk2facvefgdes94ogi19p8vik8pe0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.almadina"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769972667097:android:b60412e59006088a0eb4c8",
+        "android_client_info": {
+          "package_name": "com.imran.royal_designe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769972667097-9v9v6qv74h1l2jfocro925m3uaq9qjvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imran.royal_designe",
+            "certificate_hash": "51e5ae43207d73abb8b25a1723509fb2a13de42c"
+          }
+        },
+        {
+          "client_id": "769972667097-hq3qio3gcismdvodbg9dn299utg7at74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAryJQzqkhCn0UF4nXNZbYlFo8AHbsFvKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769972667097-hq3qio3gcismdvodbg9dn299utg7at74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769972667097-75bk2facvefgdes94ogi19p8vik8pe0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.almadina"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
